@@ -9,3 +9,15 @@ Dados dos valores N y M determinar e imprimir cuantos múltiplos de M hay dentro
 
 ### 03
 Dados dos valores enteros A y B determinar e imprimir el producto de ambos obtenido por sumas sucesivas. 
+
+### 04
+Dado un valor M, determinar e imprimir los M primeros múltiplos de 3 que no lo sean de 5, dentro del conjunto de números naturales. 
+
+### 05
+Dado un conjunto de valores c/u de los cuales representa el sueldo de un empleado, excepto el último que es cero e indica fin del conjunto. 
+Desarrollar el programa que determine e imprima: 
+a) Cuantos empleados ganan menos de $520 
+b) Cuantos ganan $520 o más pero menos de $780 
+c) Cuantos ganan $780 o más pero menos de $999 
+d) Cuantos ganan $999 o más 
+
