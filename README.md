@@ -43,3 +43,16 @@ Dada una funcion y 2 listas unirlas aplicandoles la funcion
 
 ### 13
 Dado un conjunto de ternas de valores (V1, V2, V3) finalizado por una terna nula, desarrollar el programa que imprima con una única orden de impresión los valores de cada terna en orden creciente de izquierda a derecha en la línea. 
+
+### 14
+Dado un conjunto de valores positivos terminado con un valor negativo, desarrollar el programa que imprima el valor máximo del conjunto y su posición relativa dentro del mismo. 
+
+### 15
+Dada una lista de elemento clave valor, buscar el elemento por key
+
+### 16
+Por cada alumno de la facultad se dispone de la siguiente información:
+a) Número de legajo
+b) Nota promedio de finales rendidos 
+Con estos datos se forma un lote terminado con número de legajo cero.
+Desarrollar el programa que determine e imprima los números de legajo de los dos mejores alumnos según su promedio.
