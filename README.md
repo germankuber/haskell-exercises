@@ -62,3 +62,8 @@ un instituto posee taquillas para que sus estudiantes tengan un lugar donde guar
 
 ### 20 
 Ingresar un valor N (< 25). Generar un arreglo de N componentes en el cual las mismas contengan los primeros números naturales pares e imprimirlo. 
+
+### 21
+Ingresar un valor entero N (< 30) y a continuación un conjunto de N elementos. Si el último elemento del conjunto tiene un valor menor que 10 imprimir los negativos y en caso contrario los demás. 
+
+ 
