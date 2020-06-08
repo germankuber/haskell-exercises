@@ -56,3 +56,9 @@ a) Número de legajo
 b) Nota promedio de finales rendidos 
 Con estos datos se forma un lote terminado con número de legajo cero.
 Desarrollar el programa que determine e imprima los números de legajo de los dos mejores alumnos según su promedio.
+
+### 17
+un instituto posee taquillas para que sus estudiantes tengan un lugar donde guardar sus posters de Guns’n’Roses. Cada taquilla tiene una combinación. Cuando un estudiante quiere una taquilla nueva, le dice al supervisor de las taquillas que número de taquilla quiere y él le da un código para esa taquilla. Sin embargo, si alguien ya está usando la taquilla, no le puede decir el código y tienen que elegir una taquilla diferente.
+
+### 20 
+Ingresar un valor N (< 25). Generar un arreglo de N componentes en el cual las mismas contengan los primeros números naturales pares e imprimirlo. 
