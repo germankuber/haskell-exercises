@@ -61,9 +61,45 @@ Desarrollar el programa que determine e imprima los números de legajo de los do
 un instituto posee taquillas para que sus estudiantes tengan un lugar donde guardar sus posters de Guns’n’Roses. Cada taquilla tiene una combinación. Cuando un estudiante quiere una taquilla nueva, le dice al supervisor de las taquillas que número de taquilla quiere y él le da un código para esa taquilla. Sin embargo, si alguien ya está usando la taquilla, no le puede decir el código y tienen que elegir una taquilla diferente.
 
 ### 20 
-Ingresar un valor N (< 25). Generar un arreglo de N componentes en el cual las mismas contengan los primeros números naturales pares e imprimirlo. 
+Ingresar un valor N (< 25). Generar un arreglo de N componentes en el cual las mismas contengan los primeros números naturales pares e imprimirlo.
 
 ### 21
-Ingresar un valor entero N (< 30) y a continuación un conjunto de N elementos. Si el último elemento del conjunto tiene un valor menor que 10 imprimir los negativos y en caso contrario los demás. 
+Ingresar un valor entero N (< 30) y a continuación un conjunto de N elementos. Si el último elemento del conjunto tiene un valor menor que 10 imprimir los negativos y en caso contrario los demás.
 
- 
+ ### 23
+Crear un programa que lee continuamente una línea y muestra esa línea con sus palabras al revés. La ejecución del programa se detendrá cuando encuentre una línea vacía
+
+### 24
+CSrear un programa que lea continuamente una línea y nos diga si esa línea es un palíndromo o no.
+
+### 25
+Crear una función que simule lanzar una modena tres veces.
+
+### 26
+Crear una función que generara secuencias de números aletorios finitas y devolviera también un nuevo generador.
+
+### 27
+Se debe leer una lista de numeros de pantalla, acabando con una lectura vacia.
+En ese momento:
+- Escribir en un archivo la lista de numeros agrupados por numero.
+- repetir la lista de numeor la cantidad de veces que se repite
+- mostrar la suma de todas las repeticiones de cada mismo numero
+
+### 28
+Se dispone de un conjunto de boletas de inscripción de alumnos a examen en el mes de mayo. Cada boleta tiene los siguientes datos:
+a) Nro. de legajo (7 dígitos)
+b) Código de materia (6 dígitos)
+c) Día del examen (2 dígitos)
+d) Mes del examen (2 dígitos)
+e) Año del examen (2 dígitos)
+f) Nombre y Apellido (25 caracteres) 
+Desarrollar un programa que a partir de las boletas mencionadas genere un archivo de inscripción de alumnos a exámenes finales. 
+Al final del proceso imprimir el contenido del archivo para control. 
+
+### 29
+Implementar el ahorcado
+1. El usuario debe elegir una palaba
+2. El usuario debe comenzar a ingresar letras
+3. Tiene 7 posibilidades antes de perder.
+4. se debe mostrar una lista de las letras ya ingresadas y si ingresa de nuevo una letra preveia se debe avisar
+5. se debe ir persistiendo en un file cada paso del juego 

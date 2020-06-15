@@ -1,4 +1,3 @@
-
 printNegatives :: [Int] -> [Int]
 printNegatives = filter (<0) 
 

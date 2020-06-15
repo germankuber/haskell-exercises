@@ -1,0 +1,12 @@
+Nro agrupador : 1
+Cantidad de veces : 4
+Suma total : 4
+
+Nro agrupador : 2
+Cantidad de veces : 2
+Suma total : 4
+
+Nro agrupador : 4
+Cantidad de veces : 6
+Suma total : 24
+
